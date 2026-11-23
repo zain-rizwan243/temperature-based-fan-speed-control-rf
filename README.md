@@ -6,7 +6,6 @@ Arduino reads a DS18B20 temperature sensor and sends the value over an
 RF link (FS100A), and a receiver Arduino converts it into a PWM signal
 that controls the fan through a MOSFET.
 
-Developed for the Communication Systems Lab (2023).
 
 ## Introduction
 Temperature changes throughout a hot summer day, and we adjust the
