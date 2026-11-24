@@ -87,9 +87,8 @@ the PWM value, so the fan speed follows the temperature.
 
 
 ## Repository Contents
-- `ASK_transmitter/ASK_transmitter.ino` - transmitter code (sensor reading, LCD, RF sending)
-- `ASK_receiver/ASK_receiver.ino` - receiver code (RF receiving, PWM algorithm, LCD)
-- `images/` - photos of the project
+- `ASK_transmitter.ino` - transmitter code (sensor reading, LCD, RF sending)
+- `ASK_receiver.ino` - receiver code (RF receiving, PWM algorithm, LCD)
 
 ## Author
 Zain Rizwan - Electrical Engineer<br>
